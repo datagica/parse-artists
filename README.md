@@ -1,6 +1,6 @@
 # Parse Artists
 
-If an artist is missing you can create a pull request
+If an artist, license or copyright is missing you can create a pull request
 
 ## Installation
 
