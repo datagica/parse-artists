@@ -1,0 +1,21 @@
+{
+  "name": "@datagica/parse-artists",
+  "version": "0.0.0",
+  "description": "Extract artists from a text",
+  "main": "./index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Julian Bilcke <julian.bilcke@datagica.com>",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datagica/parse-artists.git"
+  },
+  "dependencies": {
+    "@datagica/parse-entities": "^0.2.7"
+  },
+  "devDependencies": {
+    "jest": "^23.0.1"
+  }
+}
